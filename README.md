@@ -1,11 +1,10 @@
-readme_full = """
 <!-- README.md do GitHub @pedroantunes1310 -->
 
-<h1 align="center">Olá 👋, eu sou o Pedro Antunes</h1>
+<h1 align="center">Olá 👋, eu sou o Pedro!</h1>
 <h3 align="center">Back-end | Java | Spring Boot | SQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&center=true&vCenter=true&color=F70000&width=600&lines=System.out.println(%22Bem-vindo+ao+meu+GitHub!%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&color=F70000&width=600&lines=System.out.println(%22Bem-vindo+ao+meu+GitHub!%22);" alt="Typing SVG" />
 </p>
 
 ---
