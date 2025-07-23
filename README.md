@@ -1,7 +1,7 @@
 <!-- README.md do GitHub @pedroantunes1310 -->
 
 <h1 align="center">Olá 👋, eu sou o Pedro!</h1>
-<h3 align="center">Back-end | Java | Spring Boot | SQL</h3>
+<h3 align="center">Estudante | Desenvolvedor | Java | SQL</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&center=true&vCenter=true&color=F70000&width=600&lines=System.out.println(%22Bem-vindo+ao+meu+GitHub!%22);" alt="Typing SVG" />
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/totvs/totvs-original.svg" height="40" alt="github" />
 </p>
 
 ---
