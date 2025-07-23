@@ -50,15 +50,7 @@ Tecnologias principais:
 
 ---
 
-🎧 **Trilha sonora do código** 🎸  
-<sub>*Um toque pessoal com uma pitada de rock* 🤘*</sub>
-
-> *"Bat Country", "Hail to the King", "So Far Away"...*  
-> Desenvolvendo com foco total e trilha da **Avenged Sevenfold** no fundo. Porque quem disse que código não pode ter atitude?
-
----
-
-📫 **Entre em contato comigo**
+📫 **Contato**
 
 - ✉️ pedrohantunes11@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-antunes-94497523b)  
@@ -66,12 +58,8 @@ Tecnologias principais:
 
 ---
 
-⚡ **Fun Fact**: Quando não estou codando, estou aprendendo novos riffs ou imerso no som da minha banda favorita. 🎸
-
----
-
 <p align="center">
-  <img src="https://tenor.com/b1lJQ.gif" width="300" alt="Avenged Sevenfold gif">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86473ada-03c4-45a1-a02e-a6b430c90cbf/damtfzx-56af1cde-95a1-4ba3-894d-a5e80f055253.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2NDczYWRhLTAzYzQtNDVhMS1hMDJlLWE2YjQzMGM5MGNiZlwvZGFtdGZ6eC01NmFmMWNkZS05NWExLTRiYTMtODk0ZC1hNWU4MGYwNTUyNTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dxi95K0gClfcwsSZdHWDsfp0ixxH1cGwlAywd7Ae79M" width="300" alt="Avenged Sevenfold gif">
 </p>
 
 ---
