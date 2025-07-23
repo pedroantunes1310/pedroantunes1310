@@ -1,33 +1,31 @@
+readme_full = """
 <!-- README.md do GitHub @pedroantunes1310 -->
 
-<h1 align="center">Olá 👋, eu sou o Pedro</h1>
-<h3 align="center">Java | Spring Boot | SQL</h3>
+<h1 align="center">Olá 👋, eu sou o Pedro Antunes</h1>
+<h3 align="center">Back-end | Java | Spring Boot | SQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&center=true&vCenter=true&color=F70000&width=450&lines=System.out.println(%22Bem-vindo+ao+meu+GitHub!%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&center=true&vCenter=true&color=F70000&width=600&lines=System.out.println(%22Bem-vindo+ao+meu+GitHub!%22);" alt="Typing SVG" />
 </p>
 
 ---
 
-🎓 **Sobre mim**
-- Estudante de **Análise e Desenvolvimento de Sistemas** na [Facens](https://facens.br/)
-- Formado em **Gestão da Tecnologia da Informação**
-- Apaixonado por resolver problemas complexos com **código limpo e eficiente**
-- Foco em **Back-end Java (Spring Boot)**, mas também exploro o mundo **Fullstack**
-- Experiência profissional com **ERP TOTVS Datasul**, **CRM Salesforce** e **SQL**
+### 🧑‍💻 Tecnologias e Ferramentas
 
----
-
-🧠 **O que eu conheço**
-
-\`\`\`java
-Tecnologias principais:
-🟢 Java • Spring Boot • APIs RESTful
-🟣 SQL Server • MySQL • Dashboards de BI
-🟡 Node.js • Express • TypeScript
-🟠 Angular • Bootstrap • HTML/CSS
-🔵 Git • GitHub • Postman
-\`\`\`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+</p>
 
 ---
 
