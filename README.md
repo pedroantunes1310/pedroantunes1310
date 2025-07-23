@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou o Pedro Antunes</h1>
-<h3 align="center">Desenvolvedor Back-end | Java | Spring Boot | SQL</h3>
+<h1 align="center">Olá 👋, eu sou o Pedro</h1>
+<h3 align="center">Desenvolvedor | Java | Back-End | SQL</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=System.out.println(%22Bem-vindo+ao+meu+GitHub!%22);" alt="Typing SVG" />
