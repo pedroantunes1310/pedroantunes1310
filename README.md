@@ -28,19 +28,17 @@
 
 ---
 
-🚧 **Projetos em Destaque**
+### 💡 Projetos em Destaque
 
-| Projeto                        | Tecnologias                       | Descrição                                                                 |
-|-------------------------------|------------------------------------|--------------------------------------------------------------------------|
-| API To-Do List                | Java, Spring Boot, SQL             | API REST para tarefas com camadas bem definidas, DTOs e tratamento de erros |
-| Gerenciador de Finanças (App) | Java Android, SQLite               | App para controle financeiro com persistência local e multi-threading    |
-| Professores/Turmas API        | Node.js, Express, JS               | CRUD com validações e arquitetura modular                                |
-| Estoque WMS (Android)         | Java Android                       | App offline para inventário, entrada/saída de produtos                   |
-| Landing Page E-commerce       | Angular, Bootstrap                 | UI responsiva com consumo de APIs e componentes dinâmicos                |
+- 📌 **To-Do API** — `Java`, `Spring Boot`, `SQL`
+- 📌 **App Minhas Finanças** — `Java Android`, `SQLite`
+- 📌 **API Professores/Turma** — `Node.js`, `Express`, `JavaScript`
+- 📌 **Sistema WMS Estoque** — `Java Android`
+- 📌 **Landing Page E-commerce** — `Angular`, `Bootstrap`
 
 ---
 
-📈 **GitHub Stats**
+### 📈 GitHub Stats
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroantunes1310&show_icons=true&theme=radical" />
@@ -49,11 +47,19 @@
 
 ---
 
-📫 **Contato**
+### 📫 Contato
 
-- ✉️ pedrohantunes11@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-antunes-94497523b)  
-- 💻 [Portfólio GitHub](https://github.com/pedroantunes1310)
+<p align="left">
+  <a href="mailto:pedrohantunes11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-antunes-94497523b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/pedroantunes1310" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
